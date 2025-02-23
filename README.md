@@ -1,5 +1,8 @@
 # Summative-Assignment---Model-Training-and-Evaluation
 
+Link to the video: https://drive.google.com/file/d/1DDMXstCx5fOV_eHS7_YsovQrw-Apazlj/view?usp=sharing
+
+
 Optimized Neural Network for Healthcare(Diabetes) Medication Prediction
 
 Project Overview
